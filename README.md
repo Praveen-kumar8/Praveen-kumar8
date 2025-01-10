@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Tech stack:</p>
+<p align="left">**Tech stack**</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Tools:</p>
+<p align="left">**Tools**</p>
 
 ###
 
@@ -60,9 +60,10 @@
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
 </p>
+
 ###
 
-<p align="left">Ping me through:</p>
+<p align="left">**Ping me through**</p>
 
 ###
 
