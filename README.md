@@ -56,7 +56,7 @@
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
 </p>
 
-### Ping me through**</p>
+### Ping me through</p>
 
 ###
 
