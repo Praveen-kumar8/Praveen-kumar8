@@ -56,9 +56,7 @@
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>
 </p>
 
-###
-
-<p align="left">**Ping me through**</p>
+### Ping me through**</p>
 
 ###
 
@@ -89,12 +87,4 @@
 
 ###
 
-<h3 align="left">Watch snake eating my github contributions:</h3>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Praveen-kumar8/Praveen-kumar8/output/snake.svg" alt="Snake animation" />
-
-###
