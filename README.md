@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! <br>I'm Praveen Kumar.</h2>
+<h2 align="left">Hey there!👋! <br>I'm Praveen Kumar.</h2>
 
 ###
 
@@ -14,9 +14,7 @@
 
 <p align="left">- 🔭 I’m currently learning Java<br>- 🌱 I’m currently learning Cryptography<br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: praveenkumarsel08@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Coding: where coffee turns into logic.</p>
 
-###
-
-<p align="left">**Tech stack**</p>
+### Tech Stack
 
 ###
 
@@ -38,12 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt=""  />
 </div>
 
-###
-
-<p align="left">**Tools**</p>
+### Tools
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
