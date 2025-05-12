@@ -87,9 +87,4 @@
 
 ###
 
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Praveen-kumar8/Praveen-kumar8/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
