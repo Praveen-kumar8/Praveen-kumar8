@@ -87,8 +87,9 @@
 
 ###
 
-<h3 align="left">Contribution Snake</h3>
+### Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/Praveen-kumar8/Praveen-kumar8/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Praveen-kumar8/Praveen-kumar8/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
