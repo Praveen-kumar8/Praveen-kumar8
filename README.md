@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Pre-final year || B.E ECE student || Java.</p>
+<p align="left">Junior Software developer @Maxeye Technologies</p>
 
 ###
 
